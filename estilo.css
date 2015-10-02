@@ -44,24 +44,33 @@ html{
     -o-transition: all .5s;
     transition: all .5s;
 }
-
+/*
 #formulario0{
 	display: none;
 	text-align: center;
 }
 
 #formulario1{
-	display: none;
+	display: none; 
 	text-align: center;
 }
 
 #formulario2{
 	display: block;
 	text-align: center;
-}
+}*/
 
 #formulario2 .contenido .campo{
 	width: 7em;
+}
+
+form{
+	display: none;
+	text-align: center;
+}
+
+#formulario3{
+	display: block;
 }
 
 #titulo{
